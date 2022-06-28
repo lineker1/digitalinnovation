@@ -26,7 +26,7 @@
 
     <build>
         <sourceDirectory>src/main/kotlin</sourceDirectory>
-        <testSourceDirectory>src/main/kotlin/one/digitalinnovation/test/kotlin</testSourceDirectory>
+        <testSourceDirectory>src/main/kotlin/one/digitalinnovation/test/</testSourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.jetbrains.kotlin</groupId>
